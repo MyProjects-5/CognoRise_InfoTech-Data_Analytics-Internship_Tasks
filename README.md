@@ -3,7 +3,8 @@
 ## Task1 :-                                                                                                                             
 * **Topic :-**      Data Analysis of Unemployment In India Using Power BI
 * **Github Repository :-**                                                                                                                                                                 
-  https://github.com/MyProjects-5/Unemployment_In_India-Dashboard                                                                                                                                                     * **Linkedin post :-**                                                                                                                                                                            
+  https://github.com/MyProjects-5/Unemployment_In_India-Dashboard
+* **Linkedin post :-**                                                                                                                                                                            
   https://www.linkedin.com/posts/nagendravkini_unemployment-in-india-activity-7197967800911478784-CC5L?utm_source=share&utm_medium=member_desktop
 
 ## Task2 :-
