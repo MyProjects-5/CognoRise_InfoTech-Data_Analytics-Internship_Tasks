@@ -2,9 +2,9 @@
 
 ## Task1 :-                                                                                                                             
 * **Topic :-**      Data Analysis of Unemployment In India Using Power BI
-* **Github Repository :-**                                                                                                                                                                 
+* **Github Repository :-**                                                                                                                    
   https://github.com/MyProjects-5/Unemployment_In_India-Dashboard
-* **Linkedin post :-**                                                                                                                                                                            
+* **Linkedin post :-**                                                                                                                                        
   https://www.linkedin.com/posts/nagendravkini_unemployment-in-india-activity-7197967800911478784-CC5L?utm_source=share&utm_medium=member_desktop
 
 ## Task2 :-
@@ -16,7 +16,7 @@
                                                                                                               
 ## Task3 :-
 * **Topic :-**      Data Analysis of Employee Salaries For Different Job Roles Using Power BI                                                                  
-* **Github Repository :-**                                                                                                                                                                         
-  https://github.com/MyProjects-5/Employee_Salaries_For_Different_Job_Roles-Dashboard                                                                                                                            
+* **Github Repository :-**                                                                                                                                     
+  https://github.com/MyProjects-5/Employee_Salaries_For_Different_Job_Roles-Dashboard                                                                            
 * **Linkedin post :-**
   https://www.linkedin.com/posts/nagendravkini_employee-salaries-for-different-job-roles-activity-7202885098172542976-X_vd?utm_source=share&utm_medium=member_desktop                                 
