@@ -17,7 +17,7 @@
 ## Task3 :-
 * **Topic :-**      Data Analysis of Employee Salaries For Different Job Roles Using Power BI                                                                  
 * **Github Repository :-**                                                                                                                                     
-  https://github.com/MyProjects-5/Employee_Salaries_For_Different_Job_Roles-Dashboard                                                                                 
+  https://github.com/MyProjects-5/Employee_Salaries_For_Different_Job_Roles-Dashboard                                                                            
 * **Linkedin post :-**                                                
   https://www.linkedin.com/posts/nagendravkini_employee-salaries-for-different-job-roles-activity-7202885098172542976-X_vd?utm_source=share&utm_medium=member_desktop
 
